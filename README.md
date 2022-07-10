@@ -21,4 +21,4 @@ The website is to make ladies air their views and expose lecturers who have been
 
 ## Built with
 
-Figma design,JavaScript,PyTeal
+Figma design ,JavaScript ,Reach, Bubble.io, React
